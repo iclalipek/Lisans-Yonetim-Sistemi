@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{7F796BD6-06D4-44C8-AEBC-16DB9345996E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{FEC8100B-9379-4AA6-B3CC-6B8049EF17CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstractions", "Abstractions\Abstractions.csproj", "{D65C6E7C-989F-42D9-9561-0DB82943BC36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F796BD6-06D4-44C8-AEBC-16DB9345996E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F796BD6-06D4-44C8-AEBC-16DB9345996E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F796BD6-06D4-44C8-AEBC-16DB9345996E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F796BD6-06D4-44C8-AEBC-16DB9345996E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC8100B-9379-4AA6-B3CC-6B8049EF17CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC8100B-9379-4AA6-B3CC-6B8049EF17CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC8100B-9379-4AA6-B3CC-6B8049EF17CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC8100B-9379-4AA6-B3CC-6B8049EF17CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65C6E7C-989F-42D9-9561-0DB82943BC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65C6E7C-989F-42D9-9561-0DB82943BC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65C6E7C-989F-42D9-9561-0DB82943BC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65C6E7C-989F-42D9-9561-0DB82943BC36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25B966E0-46FA-461B-941D-C0AB32406BE2}
+	EndGlobalSection
+EndGlobal

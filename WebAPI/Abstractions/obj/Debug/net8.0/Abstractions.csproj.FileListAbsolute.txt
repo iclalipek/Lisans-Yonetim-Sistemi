@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\stajproje\WebAPI\Abstractions\bin\Debug\net8.0\Abstractions.deps.json
+C:\Users\USER\Desktop\stajproje\WebAPI\Abstractions\bin\Debug\net8.0\Abstractions.dll
+C:\Users\USER\Desktop\stajproje\WebAPI\Abstractions\bin\Debug\net8.0\Abstractions.pdb
+C:\Users\USER\Desktop\stajproje\WebAPI\Abstractions\obj\Debug\net8.0\Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\stajproje\WebAPI\Abstractions\obj\Debug\net8.0\Abstractions.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\stajproje\WebAPI\Abstractions\obj\Debug\net8.0\Abstractions.AssemblyInfo.cs
+C:\Users\USER\Desktop\stajproje\WebAPI\Abstractions\obj\Debug\net8.0\Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\stajproje\WebAPI\Abstractions\obj\Debug\net8.0\Abstractions.dll
+C:\Users\USER\Desktop\stajproje\WebAPI\Abstractions\obj\Debug\net8.0\refint\Abstractions.dll
+C:\Users\USER\Desktop\stajproje\WebAPI\Abstractions\obj\Debug\net8.0\Abstractions.pdb
+C:\Users\USER\Desktop\stajproje\WebAPI\Abstractions\obj\Debug\net8.0\ref\Abstractions.dll
+C:\Users\USER\Desktop\stajproje\WebAPI\Abstractions\obj\Debug\net8.0\Abstractions.csproj.AssemblyReference.cache
