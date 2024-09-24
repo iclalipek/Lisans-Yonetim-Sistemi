@@ -1,0 +1,70 @@
+/*Butonlar*/
+.Delete {
+    background-color: #4B6382;
+    border-radius: 12px;
+    padding: 5px 35px;
+  }
+  
+.Update {
+  background-color: #4B6382;
+  border-radius: 12px;
+  padding: 5px 23px;
+}
+.Add{
+  background-color: #4B6382;
+  border-radius: 12px;
+  padding: 5px 23px;
+}
+  
+/* Butonları sağa hizalama */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+  
+.header-container .Add {
+  margin-left: auto;
+}
+
+.show{
+  background-color: #4B6382;
+  color: rgb(255, 255, 255);
+  border-radius: 12px;
+  font-size: 14px;
+  padding: 10px 35px;
+}
+
+.check{
+  background-color: #071739; 
+  color: white; 
+  padding: 8px 20px; 
+  border: none; 
+  border-radius: 12px; 
+  cursor: pointer; 
+  font-size: 16px; 
+  transition: background-color 0.3s ease; 
+}
+
+/* Kabul butonu */
+.p-confirm-dialog-accept {
+  background-color: #071739; 
+  border-color: #000000; 
+  color: #ffffff; 
+}
+.p-confirm-dialog-accept:hover {
+    background-color: #071739; 
+    border-color: #000000; 
+}
+
+/* İptal Butonu */
+.p-confirm-dialog-reject {
+  background-color: #fffefe;
+  border-color: #e0e0e0; 
+  color: #222121;
+}
+.p-confirm-dialog-reject:hover {
+  background-color: #A4B5C4; 
+  border-color: #A4B5C4; 
+}

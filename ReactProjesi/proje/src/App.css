@@ -1,0 +1,150 @@
+/* Additional Styling Genel*/
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* Responsive Design Ekran Boyutu için*/ 
+@media (max-width: 768px) {
+  #root {
+      padding: 1rem;
+  }
+
+  .card {
+      padding: 1.5em;
+  }
+}
+
+.lisanslar-title {
+  font-size: 35px; 
+  font-weight: bold; 
+  color: #ffffff; 
+  margin-bottom: 8px; 
+  text-align: center; 
+}
+
+/* Card Component */
+.card {
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color: #DCDFE5;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+.firstcard{
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color: #A4B5C4;
+  color: white;
+  width: 100%; 
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.table-header {
+  padding: 5px;
+  margin-bottom: 5px; 
+  font-size: 10px; 
+}
+
+/* Arama */
+.search-container {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.search-container .pi-search {
+  position: absolute;
+  left: 10px;
+  color: #303030;
+}
+
+.search-input {
+  padding-left: 30px;
+  width: 100%;
+}
+
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #071739;
+  color: #333;
+}
+
+/* Root Container */
+#root {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.search-container {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.search-container .pi-search {
+  position: absolute;
+  left: 10px; 
+  color: #303030; 
+}
+
+.search-input {
+  padding-left: 30px; 
+  width: 100%;
+}
+
+/*TABLO KONTROL*/
+.table-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+.table-container table {
+  width: 100%;
+  max-width: 100%;
+  min-width: 600px; 
+}
+
+.responsive-table {
+  width: 100%;
+  max-width: 100%;
+  min-width: 600px; 
+  border-collapse: collapse;
+  font-size: 1rem; 
+}
+
+.responsive-table th,
+.responsive-table td {
+  padding: 10px 12px;
+  text-align: left;
+}
+
+@media (max-width: 768px) {
+  .responsive-table th,
+  .responsive-table td {
+      padding: 8px 10px;
+      font-size: 0.875em;
+  }
+}
+
